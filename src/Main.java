@@ -14,5 +14,6 @@ public class Main {
 
         System.out.println(resultA);
         System.out.println(resultB);
+        //System.out.println();
     }
 }
